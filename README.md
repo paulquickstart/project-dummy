@@ -6,14 +6,14 @@
   <li>style.css</li>
 </ul>
 <hr/>
-<h2> Framework and Technology </h2>
+<h2> Framework And Technology </h2>
 <ul> 
   <li>Bootstrap 4</li>
   <li>HTML5</li>
 </ul>
 <hr/>
 
-<h1> Guide on creating Repository </h1>
+<h1> Guide On Creating Repository </h1>
 
 <h2> Uploading your project from local to github repository </h2>
 
