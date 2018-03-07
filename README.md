@@ -37,12 +37,10 @@
 
 ![Alt text](https://github.com/paulquickstart/project-dummy/blob/master/Github/images/image6.png "  git commit -m “dummy commit”")
 <p> 5. git push -u origin master </p>
-
 <p>Success</p>
 
-Summary
-
-<h3> Create repository </h3>
+<h3> Summary </h3>
+<p><strong> Create repository </strong></p>
 <ol>
   <li>git init </li>
   <li>git add * </li>
