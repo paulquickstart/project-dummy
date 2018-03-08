@@ -1,5 +1,10 @@
 # Project Dummy
 
+<h2> Installation </h2>
+
+<p> git clone https://github.com/paulquickstart/project-dummy.git </p>
+
+
 <h2> File Contains </h2>
 <ul> 
   <li>index.html</li>
